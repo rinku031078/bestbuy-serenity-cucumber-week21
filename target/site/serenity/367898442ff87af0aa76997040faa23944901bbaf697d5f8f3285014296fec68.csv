@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Stores Functionality","Verify user should able to access stores information","SUCCESS","2022-01-25T22:30:07.052Z[Europe/London]","0.0","0.37"
+"Stores Functionality","Create a new store and verify if the store is added","SUCCESS","2022-01-25T22:30:08.123Z[Europe/London]","0.0","0.33"
+"Stores Functionality","Update the store information and verify if store is updated","SUCCESS","2022-01-25T22:30:08.880Z[Europe/London]","0.0","0.34"
+"Stores Functionality","I delete the store and verify store is deleted successfully","SUCCESS","2022-01-25T22:30:10.117Z[Europe/London]","0.0","0.25"

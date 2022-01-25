@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Products Functionality","Verify user should be able to access Products on Best Buy application","SUCCESS","2022-01-25T22:29:18.856Z[Europe/London]","0.0","41.63"
+"Products Functionality","Create a new Product & verify if the product is added","SUCCESS","2022-01-25T22:30:00.886Z[Europe/London]","0.0","0.49"
+"Products Functionality","Updating the product created and verify it is updated with status 200","SUCCESS","2022-01-25T22:30:01.685Z[Europe/London]","0.0","0.39"
+"Products Functionality","Verify user should able to delete the product","SUCCESS","2022-01-25T22:30:02.533Z[Europe/London]","0.0","0.33"

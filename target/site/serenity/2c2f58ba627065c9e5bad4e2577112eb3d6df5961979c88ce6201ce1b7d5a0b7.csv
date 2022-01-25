@@ -1,0 +1,5 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Services Functionality","Verify user should able to access stores information","SUCCESS","2022-01-25T22:30:03.591Z[Europe/London]","0.0","0.1"
+"Services Functionality","Create a new Service and verify if the Service is added","SUCCESS","2022-01-25T22:30:04.484Z[Europe/London]","0.0","0.37"
+"Services Functionality","Update the Service information and verify if Service is updated","SUCCESS","2022-01-25T22:30:05.553Z[Europe/London]","0.0","0.34"
+"Services Functionality","I delete the Service and verify Service is deleted successfully","SUCCESS","2022-01-25T22:30:06.181Z[Europe/London]","0.0","0.65"
